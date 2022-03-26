@@ -279,7 +279,7 @@ const translations = {
             version: 'Version',
             disable_clock: 'Cacher l\'horloge',
             settings: 'Paramètres globaux',
-            dashboard_information: 'Informations sur le tableau de bord,
+            dashboard_information: 'Informations sur le tableau de bord',
             alarm_entity: 'Entité pour l\'Alarme',
             weather_entity: 'Entité pour la Météo',
             greeting_morning: 'Bonjour!',
