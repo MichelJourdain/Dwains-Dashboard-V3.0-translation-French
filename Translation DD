@@ -397,7 +397,7 @@ const translations = {
             not_installed: 'N\'a pas été installé',
             installed_blueprints: 'Installer le Blueprints',
             type: 'Type de Blueprint',
-            used_custom_cards: 'Utiliser une carte personnalisé',
+            used_custom_cards: 'Carte personnalisée installé',
             use: 'Utiliser ce Blueprint',
             install: 'Installer ce Blueprint',
             yaml_code: 'Code YAML du Blueprint',
