@@ -353,7 +353,7 @@ const translations = {
             icon_required: 'Si vous voulez l\'ajouter à la barre de navigation, vous devez choisir une icône!',
             icon: 'icône de l\'appareil',
             show_in_navbar: 'Ajouter la page d\'appareils à la barre de navigation',
-            see_all: 'See all',
+            see_all: 'Voir tout',
             on: 'Allumé',
             open: 'Ouvert',
             cover: 'Rideau',
