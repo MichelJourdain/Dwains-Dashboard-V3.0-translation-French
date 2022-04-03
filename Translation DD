@@ -414,7 +414,7 @@ const translations = {
             type: 'Type de Blueprint',
             used_custom_cards: 'Cartes personnalisées installées',
             use: 'Ajouter',
-            install: 'Installer ce Blueprint',
+            install: 'Installer le Blueprint',
             yaml_code: 'Code YAML du Blueprint',
             instruction: 'Trouver le code du Blueprint que vous voulez installer dans le GitHub de la communauté de Dwains et collé le dans la section Code YAML du Blueprint plus basse. Après l’installation réussie, le tableau de bord va se recharger. Alors, vous pourrez utiliser le Blueprint.',
         }
