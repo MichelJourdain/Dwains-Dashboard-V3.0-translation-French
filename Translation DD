@@ -1,5 +1,4 @@
 // Add additional languages with their ISO 639-1 language code
-
  
     //FR French
     fr: {
@@ -13,9 +12,9 @@
             dashboard_information: 'Informations',
             alarm_entity: 'Entité pour l\'Alarme',
             weather_entity: 'Entité pour la Météo',
-            greeting_morning: 'Bonjour!',
-            greeting_afternoon: 'Bonne après-midi!',
-            greeting_evening: 'Bonsoir!',
+            greeting_morning: 'Bonjour',
+            greeting_afternoon: 'Bonne après-midi',
+            greeting_evening: 'Bonsoir',
         },
         editor: {
             lovelace_card: 'Carte Lovelace',
@@ -35,7 +34,7 @@
         entity: {
             title: 'Entité',
             title_plural: 'Entités',
-            add_card_to: 'Ajouter la carte à ',
+            add_card_to: 'Ajouter une carte à ',
             edit_entity: 'Éditer l\'entité',
             edit_entity_card: 'Éditer une carte d\'entité',
             edit_entity_popup_card: 'Éditer une carte Pop-up',
@@ -111,12 +110,12 @@
             weather: 'Temps',
             moisture: 'Humidité',
             input_select: 'Sélection',
-            carbon_monoxide: 'Carbon monoxide',
-            gas: 'Gas',
-            problem: 'Problem',
-            safety: 'Safety',
-            smoke: 'Smoke',
-            tamper: 'Tamper',
+            carbon_monoxide: 'Monoxyde de carbone',
+            gas: 'Gaz',
+            problem: 'Problème',
+            safety: 'Sécurité',
+            smoke: 'Fumée',
+            tamper: 'Altérer',
         },
         more: {
             title: 'Ajouter',
@@ -128,7 +127,7 @@
             icon_required: 'Si vous voulez l\'ajouter à la barre de navigation, vous devez choisir une icône!',
             add_navbar: 'Ajouter à la barre de navigation',
             name: 'Nom de la page',
-            icon: 'icône de la page',
+            icon: 'Icône de la page',
         },
         blueprint: {
             title: 'Blueprint',
