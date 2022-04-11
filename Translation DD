@@ -1,5 +1,6 @@
 // Add additional languages with their ISO 639-1 language code
 
+ 
     //FR French
     fr: {
         global: {
@@ -110,6 +111,12 @@
             weather: 'Temps',
             moisture: 'Humidité',
             input_select: 'Sélection',
+            carbon_monoxide: 'Carbon monoxide',
+            gas: 'Gas',
+            problem: 'Problem',
+            safety: 'Safety',
+            smoke: 'Smoke',
+            tamper: 'Tamper',
         },
         more: {
             title: 'Ajouter',
