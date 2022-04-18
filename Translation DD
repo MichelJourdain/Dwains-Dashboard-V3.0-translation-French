@@ -135,7 +135,7 @@
             yaml_required: 'Pas de code YAML entré!',
             installed: 'Installé',
             no_blueprints_installed: 'Pas de Blueprints installés',
-            not_installed: 'N\'a pas été installé',
+            not_installed: 'N\'est pas installé',
             installed_blueprints: 'Blueprints installés',
             type: 'Type de Blueprint',
             used_custom_cards: 'Cartes personnalisées installées',
