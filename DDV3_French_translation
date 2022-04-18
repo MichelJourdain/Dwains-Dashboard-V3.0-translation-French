@@ -121,7 +121,7 @@
             tamper: 'Altérer',
             update: 'Mise à jour',
             person: 'Personne',
-            alarm_control_panel: 'Contrôle d'alarme',
+            alarm_control_panel: 'Contrôle d\'alarme',
         },
         more: {
             title: 'Ajouter',
