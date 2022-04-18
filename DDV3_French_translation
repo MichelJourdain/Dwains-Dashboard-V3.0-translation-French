@@ -6,6 +6,7 @@
             disable_edit_mode: 'Désactiver le mode d\'édition',
             version: 'Version',
             disable_clock: 'Cacher l\'horloge',
+            disable_welcome_message: 'Désactiver le message de bienvenue',
             settings: 'Paramètres globaux',
             dashboard_information: 'Informations',
             alarm_entity: 'Entité pour l\'Alarme',
