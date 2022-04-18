@@ -120,6 +120,8 @@
             smoke: 'Fumée',
             tamper: 'Altérer',
             update: 'Mise à jour',
+            person: 'Personne',
+            alarm_control_panel: 'Contrôle d'alarme',
         },
         more: {
             title: 'Ajouter',
