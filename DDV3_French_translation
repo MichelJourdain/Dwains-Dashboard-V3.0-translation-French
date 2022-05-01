@@ -1,3 +1,4 @@
+
     //FR French
     fr: {
         global: {
@@ -46,6 +47,7 @@
             ungroup: 'Dégrouper par entités',
             enable: 'Activer l\'entité',
             disable: 'Désactiver l\'entité dans DD',
+            exclude: 'Exclure l\'entité dans DD',
             hide: 'Cacher l\'entité dans DD',
             unhide: 'Afficher l\'entité',
             use_popup_card: 'Utiliser une carte Pop-up',
@@ -72,13 +74,16 @@
             icon: 'Icône',
             floor: 'Étage',
             no_floor: 'Aucun n\'étage',
+            disable: 'Désactiver l\aréa dans DD',
+            disabled: 'Les aréas suivantes sont désactivées:',
+            enable: 'Activer l\'aréa',
         },
         device: {
             title: 'Appareil',
             title_plural: 'Appareils',
             edit_device_button: 'Édition d\'un appareil',
             edit_device_card: 'Définir une carte d\'entités personnalisées pour le domaine ',
-            edit_device_popup: 'Définir une carte Pop-up d'entités personnalisées pour le domaine ',
+            edit_device_popup: 'Définir une carte Pop-up d\'entités personnalisées pour le domaine ',
             current_blueprint_card: 'Vous utilisez actuellement le Blueprint suivant pour toutes les cartes d\'entités du domaine ',
             current_blueprint_popup: 'Vous utilisez actuellement le Blueprint suivant pour tout les Pop-up d\'entités du domaine ',
             icon_required: 'Si vous voulez l\'ajouter à la barre de navigation, vous devez choisir une icône!',
@@ -121,7 +126,7 @@
             tamper: 'Altérer',
             update: 'Mise à jour',
             person: 'Personne',
-            alarm_control_panel: 'Contrôle d\'alarme',
+            alarm_control_panel: 'Alarme',
         },
         more: {
             title: 'Ajouter',
