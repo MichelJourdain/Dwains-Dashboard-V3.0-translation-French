@@ -1,12 +1,11 @@
-
-    //FR French
+  //FR French
     fr: {
         global: {
             dwains_dashboard_settings: 'Paramètres Dwains Dashboard',
             enable_edit_mode: 'Activer le mode d\'édition',
             disable_edit_mode: 'Désactiver le mode d\'édition',
             version: 'Version',
-            disable_clock: 'Cacher l\'horloge',
+            disable_clock: 'Masquer l\'horloge',
             disable_welcome_message: 'Désactiver le message de bienvenue',
             settings: 'Paramètres globaux',
             dashboard_information: 'Informations',
@@ -47,13 +46,15 @@
             ungroup: 'Dégrouper par entités',
             enable: 'Activer l\'entité',
             disable: 'Désactiver l\'entité dans DD',
+            disable_all: 'Désactiver toutes les entités',
+            hide_all: 'Masquer toutes les entités',
             exclude: 'Exclure l\'entité dans DD',
-            hide: 'Cacher l\'entité dans DD',
+            hide: 'Masquer l\'entité dans DD',
             unhide: 'Afficher l\'entité',
             use_popup_card: 'Utiliser une carte Pop-up',
             use_entity_card: 'Utiliser une carte d\'entité',
             friendly_name: 'Renommer dans DD',
-            hidden: 'Les entités suivantes sont cachés:',
+            hidden: 'Les entités suivantes sont masqués:',
             disabled: 'Les entités suivantes sont désactivés:',
             unavailable: 'Les entités suivantes sont indisponibles:',
         },
@@ -74,7 +75,7 @@
             icon: 'Icône',
             floor: 'Étage',
             no_floor: 'Aucun n\'étage',
-            disable: 'Désactiver l\aréa dans DD',
+            disable: 'Désactiver l\'aréa dans DD',
             disabled: 'Les aréas suivantes sont désactivées:',
             enable: 'Activer l\'aréa',
         },
