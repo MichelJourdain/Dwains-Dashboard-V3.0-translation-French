@@ -14,6 +14,7 @@
             greeting_morning: 'Bonjour',
             greeting_afternoon: 'Bonne après-midi',
             greeting_evening: 'Bonsoir',
+            v2_mode: 'Activer le mode Dwains Dashboard v2 (mise en page)',
         },
         editor: {
             lovelace_card: 'Carte Lovelace',
@@ -90,7 +91,10 @@
             icon_required: 'Si vous voulez l\'ajouter à la barre de navigation, vous devez choisir une icône!',
             icon: 'icône de l\'appareil',
             show_in_navbar: 'Ajouter la page d\'appareils à la barre de navigation',
+            hide: 'Masquer l\'aperçu de l'appareil',
+            unhide: 'Afficher l\'aperçu de l'appareil',
             see_all: 'Voir tout',
+            turn_all_off: 'Tout désactiver',
             on: 'Allumé',
             open: 'Ouvert',
             cover: 'Rideau',
