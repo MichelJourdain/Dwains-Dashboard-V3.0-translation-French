@@ -1,5 +1,5 @@
-  //FR French
-    fr: {
+        //FR French
+        fr: {
         global: {
             dwains_dashboard_settings: 'Paramètres Dwains Dashboard',
             enable_edit_mode: 'Activer le mode d\'édition',
@@ -91,8 +91,8 @@
             icon_required: 'Si vous voulez l\'ajouter à la barre de navigation, vous devez choisir une icône!',
             icon: 'icône de l\'appareil',
             show_in_navbar: 'Ajouter la page d\'appareils à la barre de navigation',
-            hide: 'Masquer l\'aperçu de l'appareil',
-            unhide: 'Afficher l\'aperçu de l'appareil',
+            hide: 'Masquer l\'aperçu de l\'appareil',
+            unhide: 'Afficher l\'aperçu de l\'appareil',
             see_all: 'Voir tout',
             turn_all_off: 'Tout désactiver',
             on: 'Allumé',
@@ -132,6 +132,9 @@
             update: 'Mise à jour',
             person: 'Personne',
             alarm_control_panel: 'Alarme',
+            automation: 'Automatisation',
+            group: 'Regrouper par aréas',
+            ungroup: 'Dégrouper par aréas',
         },
         more: {
             title: 'Ajouter',
